@@ -23,4 +23,9 @@ h1{
 .dark-mode{
     color: white;
     background-color: black;
+    transition-duration: 2s;
+}
+
+body{
+    transition-duration: 2s;
 }
